@@ -190,7 +190,6 @@ let r1=JSON.stringify([{
   ],
 }]);//超级管理员权限
 console.log(r1);
-
 let r2=JSON.stringify([{
   path:"/main",
   name:"main",
