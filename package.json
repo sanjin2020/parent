@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0"
+  }
+}

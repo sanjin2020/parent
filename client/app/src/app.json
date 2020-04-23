@@ -1,0 +1,11 @@
+{
+  "pages": [
+      "pages/index/index/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "晋彤您的用水专家",
+    "navigationBarTextStyle": "black"
+  }
+}
